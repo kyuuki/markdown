@@ -34,3 +34,7 @@
 * 箇条書き 1 行目__ ← 2 スペース
   2 行目
 ```
+
+;;; Local Variables:
+;;; mode: markdown
+;;; End:
