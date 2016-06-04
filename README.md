@@ -12,3 +12,8 @@
 * CommonMark (Markdown 標準化)  
   http://commonmark.org/
 
+
+;;; Local Variables:
+;;; mode: markdown
+;;; End:
+
